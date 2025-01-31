@@ -87,7 +87,7 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 |-----------------|-----------------| 
 | ![image](https://github.com/user-attachments/assets/11f073b2-2c39-4e51-ba22-3fd3f6ce74a0)| ![image](https://github.com/user-attachments/assets/5419a587-6066-4a50-a773-6a1d79e1fc45)|
 
-| **PINN + FEM-Based Real-Time Adjustment** |
+| **PINN** |**FEM-Based Real-Time Adjustment** |
 |-----------------|-----------------|  
 |![image](https://github.com/user-attachments/assets/0d24ac27-402a-41a8-ba19-ec4ffde8eef3)| ![image](https://github.com/user-attachments/assets/c8974407-cf76-4931-8974-a11d6dc01086)|
  
