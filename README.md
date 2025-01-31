@@ -6,7 +6,6 @@ A data-driven maritime solution for optimizing ship operations and improving eff
 
 ![image](https://github.com/user-attachments/assets/04e0281a-9eb5-47c0-a520-d1a8039d7e14)
 
-
 ---
 
 ## 🌊 Introduction  
@@ -55,10 +54,10 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 - The user (ship) inputs current location and destination  
 
 ### **2️⃣ Optimal Route Search**  
-- 📌 Uses **A* Algorithm & Potential Field Algorithm** for route optimization  
+- 📌 Uses **A* Algorithm, Potential Field Algorithm, and PINN-FEM Hybrid AI Model**  
 
 ### **3️⃣ Real-Time Environment Adaptation**  
-- 📌 Adjusts routes based on external forces (wind, waves, currents)  
+- 📌 Adjusts routes based on external forces (wind, waves, currents) using **PINN + FEM**  
 
 ---
 
@@ -73,10 +72,20 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 - **Keeps ships away from hazardous areas while maintaining optimal routes**  
 - **Responds dynamically to environmental changes (currents, wind, etc.)**  
 
+🔹 **PINN (Physics-Informed Neural Networks)**
+- AI model trained **with physical constraints**
+- Predicts **wave, wind, and ocean current effects on ship navigation**
+- **Improves model robustness under dynamic maritime conditions**  
+
+🔹 **FEM (Finite Element Method)**
+- Simulates **fluid dynamics and ship interactions with external forces**
+- **Provides detailed physical accuracy to improve AI decision-making**
+- **Compensates for PINN’s limitations in high-variability maritime conditions**  
+
 📌 **Optimal Route Search Example:**  
-| **A\* Algorithm Pathfinding** | **Potential Field Algorithm Applied** |  
-|-----------------|-----------------|  
-| ![image](https://github.com/user-attachments/assets/11f073b2-2c39-4e51-ba22-3fd3f6ce74a0)| ![image](https://github.com/user-attachments/assets/5419a587-6066-4a50-a773-6a1d79e1fc45)
+| **A\* Algorithm Pathfinding** | **Potential Field Algorithm Applied** | **PINN + FEM-Based Real-Time Adjustment** |  
+|-----------------|-----------------|-----------------|  
+| ![image](https://github.com/user-attachments/assets/11f073b2-2c39-4e51-ba22-3fd3f6ce74a0)| ![image](https://github.com/user-attachments/assets/5419a587-6066-4a50-a773-6a1d79e1fc45)| ![image](https://github.com/user-attachments/assets/your-pinn-fem-image.png)
  |  
 
 ---
@@ -84,7 +93,7 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 ## 🌊 Expected Impact  
 ✅ **Safer Navigation** – AI-driven optimal routes prevent accidents  
 ✅ **Fuel Efficiency & Cost Reduction** – Minimized fuel consumption via route optimization  
-✅ **Real-Time Adaptation** – Dynamic response to wind, waves, and current changes  
+✅ **Real-Time Adaptation with PINN + FEM** – Dynamic response to wind, waves, and current changes  
 ✅ **Maritime Accident Prevention** – Reduces risk and enhances passenger/cargo safety  
 
 ---
@@ -104,5 +113,10 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 
 ---
 
-## 🚀 Revolutionizing the Maritime Industry with AI and Big Data!  
-> "Leveraging AI and Big Data to create a safer and more efficient maritime navigation system."
+## 📂 **Project Files & Resources**  
+🔗 **Google Drive Link:** [View Project Files](https://drive.google.com/drive/folders/1LA7CYp5MCn1JehssDcKyJpsXnDxoUOOa?usp=sharing)  
+
+---
+
+## 🚀 Revolutionizing the Maritime Industry with AI, PINN & FEM!  
+> "Combining AI, Physics-Informed Neural Networks, and Finite Element Method to create the next generation of maritime navigation systems."
