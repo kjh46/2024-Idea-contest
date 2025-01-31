@@ -44,7 +44,8 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 📊 **Data Visualization Example**  
 | **Hazardous Route Data** | **Current Flow Analysis** |  
 |--------------------|----------------------|  
-| ![Hazard](https://your-image-url.com/hazard.png) | ![Current](https://your-image-url.com/current.png) |  
+| ![image](https://github.com/user-attachments/assets/75534f52-42c1-450e-a9ed-ccf8f23ad224)| ![image](https://github.com/user-attachments/assets/42b64a22-774d-4d96-85f3-39ba5447d0fd)
+ |  
 
 ---
 
