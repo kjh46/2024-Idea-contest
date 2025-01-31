@@ -63,7 +63,7 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 ---
 
 ## 🧠 Optimization Algorithms  
-🔹 **A* Algorithm**  
+🔹 **A\* Algorithm**  
 - **Pathfinding optimization**  
 - Considers **various weights to find the most efficient path**  
 - **Can reroute to avoid obstacles (hazards, traffic, etc.)**  
@@ -74,7 +74,7 @@ Our solution leverages **big data and AI** to enhance maritime logistics through
 - **Responds dynamically to environmental changes (currents, wind, etc.)**  
 
 📌 **Optimal Route Search Example:**  
-| ***A* Algorithm Pathfinding*** | **Potential Field Algorithm Applied** |  
+| **A\* Algorithm Pathfinding** | **Potential Field Algorithm Applied** |  
 |-----------------|-----------------|  
 | ![image](https://github.com/user-attachments/assets/11f073b2-2c39-4e51-ba22-3fd3f6ce74a0)| ![image](https://github.com/user-attachments/assets/5419a587-6066-4a50-a773-6a1d79e1fc45)
  |  
