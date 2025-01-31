@@ -4,7 +4,8 @@
 
 A data-driven maritime solution for optimizing ship operations and improving efficiency using AI and big data.  
 
-![Project Banner](https://your-image-url.com/banner.png)  
+![image](https://github.com/user-attachments/assets/04e0281a-9eb5-47c0-a520-d1a8039d7e14)
+
 
 ---
 
